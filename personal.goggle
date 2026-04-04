@@ -22,7 +22,8 @@ $discard,site=twitch.tv
 $discard,site=m.twitch.tv
 $discard,site=twitter.com
 $discard,site=store.steampowered.com
-|https://www.reddit.com/r/*/|$discard
+
+$discard,site=old.reddit.com
 $discard,site=about.youtube
 $discard,site=tiktokcdn.com
 $discard,site=tiktokcdn-in.com
