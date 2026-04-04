@@ -54,14 +54,6 @@ $discard,site=apps.shopify.com
 
 ! specialty ham
 
-! name: Specialty Ham
-! description: Remove Quora, Pinterest, Copycats, other spam sites, and some custom boosts on top.
-! public: true
-! author: Caleb
-! update: Aleszp
-! avatar: #cca1eb
-! license: CC0 1.0
-
 ! Language Specific sites
 $site=docs.python.org,boost=5
 /python/$downrank=2,site=w3schools.com
