@@ -11,6 +11,26 @@
 
 
 ! personal
+$discard,site=threads.com
+$discard,site=canva.com
+$discard,site=blog.youtube
+$discard,site=help.meta.com
+$discard,site=apps.microsoft.com
+$discard,site=meta.com
+$discard,site=transparency.meta.com
+$discard,site=imginn.com
+$discard,site=evearhearing.ca
+$discard,site=linkedin.com
+$discard,site=x.com
+$discard,site=lifeattiktok.com
+$discard,site=twitch.tv
+$discard,site=m.twitch.tv
+$discard,site=twitter.com
+$discard,site=transparency.meta.com
+$discard,site=transparency.meta.com
+
+
+$discard,site=about.youtube
 $discard,site=tiktokcdn.com
 $discard,site=tiktokcdn-in.com
 $discard,site=tiktokcdn-us.com
