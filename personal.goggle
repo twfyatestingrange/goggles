@@ -22,10 +22,7 @@ $discard,site=twitch.tv
 $discard,site=m.twitch.tv
 $discard,site=twitter.com
 $discard,site=store.steampowered.com
-$discard,site=transparency.meta.com
-|https://www.reddit.com/r/*/|
-
-
+|https://www.reddit.com/r/*/|$discard
 $discard,site=about.youtube
 $discard,site=tiktokcdn.com
 $discard,site=tiktokcdn-in.com
