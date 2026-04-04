@@ -5,6 +5,55 @@
 
 
 
+! add
+
+
+
+
+! personal
+$discard,site=tiktokcdn.com
+$discard,site=tiktokcdn-in.com
+$discard,site=tiktokcdn-us.com
+$discard,site=tiktokv.com
+$discard,site=tiktok.com
+$discard,site=apps.apple.com
+$discard,site=apps.shopify.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ! porn-be-gone:
 *.porn/$discard
