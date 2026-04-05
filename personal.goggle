@@ -40,6 +40,89 @@ $discard,site=apps.shopify.com
 
 
 
+! A Beautiful Web
+
+$discard,site=investor.google.com
+$discard,site=calendar.google.com
+$discard,site=workspace.google.com
+$discard,site=support.google.com
+$discard,site=google.at
+$discard,site=google.ca
+$discard,site=google.ch
+$discard,site=google.cl
+$discard,site=google.co.kr
+$discard,site=google.co.uk
+$discard,site=google.com
+$discard,site=google.com.au
+$discard,site=google.com.mx
+$discard,site=google.de
+$discard,site=google.dk
+$discard,site=google.es
+$discard,site=google.fr
+$discard,site=google.ie
+$discard,site=google.it
+$discard,site=google.nz
+$discard,site=google.ph
+$discard,site=google.pt
+$discard,site=google.ru
+$discard,site=trulia.com
+$discard,site=redfin.com
+$discard,site=walmart.com
+$discard,site=target.com
+$discard,site=imdb.com
+$discard,site=movoto.com
+$discard,site=homedepot.com
+$discard,site=menards.com
+$discard,site=lowes.com
+$discard,site=cnn.com
+$discard,site=microsoft.com
+$discard,site=foxnews.com
+$discard,site=msnbc.com
+$discard,site=x.com
+$discard,site=amazon.com
+$discard,site=amazon.ca
+$discard,site=instagram.com
+$discard,site=weather.com
+$discard,site=espn.com
+$discard,site=netflix.com
+$discard,site=bing.com
+$discard,site=tiktok.com
+$discard,site=quora.com
+$discard,site=snopes.com
+$discard,site=microsoftonline.com
+$discard,site=facebook.com
+$discard,site=alibaba.com
+$discard,site=indiamart.com
+$discard,site=aliexpress.com
+$discard,site=gumtree.com.au
+$discard,site=paypal.com
+$discard,site=craigslist.com
+$discard,site=kijiji.com
+$discard,site=zillow.com
+$discard,site=wikipedia.org
+$discard,site=bestbuy.com
+$discard,site=linkedin.com
+$discard,site=investor.pinterestinc.com
+$discard,site=pinterest.at
+$discard,site=pinterest.ca
+$discard,site=pinterest.ch
+$discard,site=pinterest.cl
+$discard,site=pinterest.co.kr
+$discard,site=pinterest.co.uk
+$discard,site=pinterest.com
+$discard,site=pinterest.com.au
+$discard,site=pinterest.com.mx
+$discard,site=pinterest.de
+$discard,site=pinterest.dk
+$discard,site=pinterest.es
+$discard,site=pinterest.fr
+$discard,site=pinterest.ie
+$discard,site=pinterest.it
+$discard,site=pinterest.nz
+$discard,site=pinterest.ph
+$discard,site=pinterest.pt
+$discard,site=pinterest.ru
+$discard,site=pinterestcareers.com
 
 
 
@@ -52,9 +135,6 @@ $discard,site=apps.shopify.com
 
 ! specialty ham
 
-! Language Specific sites
-$site=docs.python.org,boost=5
-/python/$downrank=2,site=w3schools.com
 
 ! Pinterest !!!
 ! https://raw.githubusercontent.com/brave/goggles-quickstart/main/goggles/no_pinterest.goggle
